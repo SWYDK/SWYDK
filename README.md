@@ -1,5 +1,5 @@
 -  Hi, I’m @SWYDK
--  I’m interested in programming,python,django,c++ and create a new prog. language
+-  I’m interested in programming,python,django,c++
 -  Here my all projects
 -  You can use my code if there no license
  
