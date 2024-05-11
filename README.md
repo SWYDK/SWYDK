@@ -1,3 +1,10 @@
+Telegram
+https://t.me/swydk_dev
+
+Kwork 
+https://kwork.ru/user/sanzhar_k
+ 
+
 I'm a Fullstack Python developer with experience in Django Framework and React. 
 I use Django Rest Framework for interaction between establishments.
 My specialization also includes the development of various Telegram bots and data parsing/processing.
