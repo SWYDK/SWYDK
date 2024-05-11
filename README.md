@@ -1,10 +1,10 @@
--  Hi, I’m @SWYDK
--  I’m interested in programming,python,django,c++
--  Here my all projects
--  You can use my code if there no license
- 
+I'm a Fullstack Python developer with experience in Django Framework and React. 
+I use Django Rest Framework for interaction between establishments.
+My specialization also includes the development of various Telegram bots and data parsing/processing.
+I have experience with databases such as PostgreSQL and SQLite
 
-<!---
-SWYDK/SWYDK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+In my work, I always strive for high quality and timely completion of tasks.
+I place special emphasis on completing projects to the final result.
+
+My goal is to satisfy your requirements!
