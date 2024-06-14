@@ -1,5 +1,5 @@
 My website
-https://swydk.github.io/
+https://sanzhar.tw1.ru
 
 Telegram
 https://t.me/swydk_dev
