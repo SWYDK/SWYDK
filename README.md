@@ -1,6 +1,3 @@
-My website
-https://sanzhar.tw1.ru
-
 Telegram
 https://t.me/swydk_dev
 
