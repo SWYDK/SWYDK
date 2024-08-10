@@ -1,5 +1,4 @@
-Personal website
-https://sanzhar.site
+
 
 Telegram
 https://t.me/swydk_dev
