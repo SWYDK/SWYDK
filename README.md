@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Software Engineer</h1>
 <h3 align="center">Hi, I'm <a href="https://t.me/swydk_dev" target="_blank">Sanzhar</a>!</h3>
-<h3 align="center"><a href="https://t.me/swydk_dev" target="_blank">My Website</a>!</h3>
+<h3 align="center"><a href="https://sanzhar.site" target="_blank">My Website</a>!</h3>
 
 
 
