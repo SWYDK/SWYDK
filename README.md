@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Software Engineer</h1>
+<h1 style="text-align:center;width:100%;">Software Engineer</h1>
 
 Telegram
 https://t.me/swydk_dev
